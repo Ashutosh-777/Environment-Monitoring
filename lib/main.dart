@@ -1,8 +1,8 @@
 import 'dart:math';
 
+import 'package:designlab/soil_quality.dart';
+import 'package:designlab/water_quality.dart';
 import 'package:flutter/material.dart';
-import 'package:iot/soil_quality.dart';
-import 'package:iot/water_quality.dart';
 
 import 'air_quality.dart';
 import 'globals.dart';
