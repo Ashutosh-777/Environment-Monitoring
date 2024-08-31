@@ -2,7 +2,7 @@
 
 ## Overview
 
-[Report](https://github.com/Ashutosh-777/Environment-Monitoring/blob/master/Design%20Lab%20Report_Group%207.pdf%7D)
+[Report](https://github.com/Ashutosh-777/Environment-Monitoring/blob/master/Design%20Lab%20Report_Group%207.pdf)
 
 This project is an **IoT-based environmental monitoring system** designed to continuously assess and provide real-time data on air, water, and soil quality. The system leverages various sensors integrated with a NodeMCU microcontroller and utilizes the ThingSpeak cloud platform for data storage, processing, and visualization. A mobile application built with Flutter allows users to remotely monitor environmental conditions and receive alerts based on predefined thresholds.
 
